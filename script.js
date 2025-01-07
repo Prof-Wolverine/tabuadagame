@@ -60,3 +60,4 @@ function verificar() {
                 pontuacao++;
             } else {
                 resultado = `Errado! A resposta certa é ${numero1 / numero2}.`;
+            }
